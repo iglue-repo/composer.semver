@@ -1,5 +1,8 @@
 {
-    "name": "composer/semver",
+    "name": "composer@iglue/semver",
+    "replace": {
+        "composer/semver": "1.4.2"
+    },
     "description": "Semver library that offers utilities, version constraint parsing and validation.",
     "type": "library",
     "license": "MIT",
